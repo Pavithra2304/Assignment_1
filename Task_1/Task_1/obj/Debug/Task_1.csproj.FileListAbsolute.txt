@@ -1,0 +1,7 @@
+F:\Dot_net\Task_1\Task_1\bin\Debug\Task_1.exe.config
+F:\Dot_net\Task_1\Task_1\bin\Debug\Task_1.exe
+F:\Dot_net\Task_1\Task_1\bin\Debug\Task_1.pdb
+F:\Dot_net\Task_1\Task_1\obj\Debug\Task_1.csproj.AssemblyReference.cache
+F:\Dot_net\Task_1\Task_1\obj\Debug\Task_1.csproj.CoreCompileInputs.cache
+F:\Dot_net\Task_1\Task_1\obj\Debug\Task_1.exe
+F:\Dot_net\Task_1\Task_1\obj\Debug\Task_1.pdb
